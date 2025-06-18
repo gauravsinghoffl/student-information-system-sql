@@ -3,7 +3,9 @@
 ## 📌 Overview
 This project is a comprehensive SQL-based implementation of a **Student Information System (SIS)**. It covers all foundational aspects of database design, data manipulation, and data analysis through SQL queries. The goal is to simulate the backend of a real-world academic system managing students, courses, enrollments, payments, and teachers.
 
+
 ---
+
 
 ## 🏗️ Tech Stack
 - **Database**: Microsoft SQL Server
@@ -11,10 +13,9 @@ This project is a comprehensive SQL-based implementation of a **Student Informat
 - **Language**: SQL
 - **Concepts Practiced**: DDL, DML, Joins, Subqueries, Aggregations, Constraints
 
----
-
 
 ---
+
 
 ## ✅ Tasks Completed
 
@@ -39,22 +40,28 @@ This project is a comprehensive SQL-based implementation of a **Student Informat
 - Analyzing student payments, course popularity
 - Complex filtering and nested logic
 
+
 ---
+
 
 ## 📎 Screenshots
 > Screenshots of output from SQL Server queries are included in the docx file for each task.
 
+
 ---
+
 
 ## 🧑‍💻 Submitted By
 - **Name**: Gaurav Singh  
-- **Email**: 2116181@saec.ac.in  
-- **Superset ID**: 5277273  
+- **Email**: 2116181@saec.ac.in
+
 
 ---
 
+
 ## 📌 Notes
 This project gave hands-on practice with real-world SQL operations, improving my understanding of relationships, data consistency, and query logic.
+
 
 ---
 
